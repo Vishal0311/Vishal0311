@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Vishal Kumar👋
+Hola, I am just a guy who is trying to learn coding from scratch.<br>
+Java | Android Application Development |
 
-<!--
-**Vishal0311/Vishal0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3> Find me around the web 🌎:</h3>
+  Follow me on Linkedin- <a href="https://www.linkedin.com/in/tushar-srivastava-a52223191/" target="_blank">👉</a><br>
+  Follow me on Twitter- <a href ="https://twitter.com/ekminuterukna" target="_blank">👉</a><br>
+  Follow me on Instagram- <a href ="https://www.instagram.com/ekminuterukna" target="_blank">👉</a><br>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=tusharsrivastava2904&show_icons=true&theme=graywhite)](https://github.com/tusharsrivastava2904/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsrivastava2904&layout=compact&theme=vue)](https://github.com/tusharsrivastava2904/github-readme-stats)
+ <hr>
