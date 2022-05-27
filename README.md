@@ -5,7 +5,7 @@ Java | Android Application Development |
 <hr>
 
 <h3> Find me around the web 🌎:</h3>
-  Follow me on Linkedin- <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vishal-kumar-6230591b7/" target="_blank">VISHAL_KUMAR</a><br>
+  Follow me on Linkedin- <a href="https://www.linkedin.com/in/vishal-kumar-6230591b7/" target="_blank">VISHAL_KUMAR</a><br>
 
 <hr>
 
