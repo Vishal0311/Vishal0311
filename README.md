@@ -1,6 +1,6 @@
 ## Hi, I'm Vishal Kumar👋
 Hola, I am just a guy who is trying to learn everyday.<br>
-Java | Android Application Development | ReactJs
+Java | Android Application Development | Python | Data analytics
 
 <hr>
 
